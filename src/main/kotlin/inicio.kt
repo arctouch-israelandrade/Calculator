@@ -25,5 +25,5 @@ fun main() {
             break
         }
     }
-    println("The end...")
+    println("The end!")
 }
